@@ -1,0 +1,83 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_23-2148763134.jpg?w=740&t=st=1683135552~exp=1683136152~hmac=e54ed5778f599b436d5c2ff3f867133270389a7572205a5e111cb78e9ad120ed",
+        "chefName": "John Smith",
+        "yearsOfExperience": 15,
+        "numberOfProjects": 25,
+        "numberOfRecipes": 50,
+        "likes": 100
+    },
+    {
+        "id": "4da4c8ccfc5349b48d41c71912413224",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_496169-111.jpg?w=740&t=st=1683137464~exp=1683138064~hmac=aba24e8e94811fd48142d160e7a98874c8f76ade5de64f5d23e60caf06bd15b6",
+        "chefName": "Jane Doe",
+        "yearsOfExperience": 10,
+        "numberOfProjects": 20,
+        "numberOfRecipes": 40,
+        "likes": 80
+    },
+    {
+        "id": "7dc3f31177234f7d8a6a68bb5d1c5e5b",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/chef-kitchen-taking-notes_23-2148006636.jpg?w=740&t=st=1683137492~exp=1683138092~hmac=f9a7507c425d83f9f6d350a1d11d90db032dd141da8e3b7e167fab8898daf4c3",
+        "chefName": "Bob Johnson",
+        "yearsOfExperience": 20,
+        "numberOfProjects": 30,
+        "numberOfRecipes": 60,
+        "likes": 120
+    },
+    {
+        "id": "f2c2188e0d024d1881b54f03bfa99c8b",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/front-view-young-female-cook-black-shirt-white-cook-cape-white-cap-posing-black-gloves-black-mask-posing_140725-15310.jpg?w=740&t=st=1683137356~exp=1683137956~hmac=bba70f753aa564705390a680ae7aecfad971f3ca342698eb597585aa4245b560",
+        "chefName": "Alice Brown",
+        "yearsOfExperience": 8,
+        "numberOfProjects": 15,
+        "numberOfRecipes": 30,
+        "likes": 60
+    },
+    {
+        "id": "a742accd15cb44cd9dbf16cb36a64a34",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/female-chef-seasoning-salad_23-2148763185.jpg?w=740&t=st=1683137281~exp=1683137881~hmac=25c0107cf4d1da9f683627d314d82ede211bab30b4ba29d52914f7b3f74f38d9",
+        "chefName": "Michael Lee",
+        "yearsOfExperience": 12,
+        "numberOfProjects": 18,
+        "numberOfRecipes": 36,
+        "likes": 72
+    },
+    {
+        "id": "f8266f5c0f9e484dbae921a996c3c3b2",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=740&t=st=1683137222~exp=1683137822~hmac=84bc4111812b3ef0628dc316b6e29c8a9ee48e628234a294c0a144b942c02e8c",
+        "chefName": "Emily Chen",
+        "yearsOfExperience": 6,
+        "numberOfProjects": 12,
+        "numberOfRecipes": 24,
+        "likes": 48
+    },
+    {
+        "id": "93415f7c10f54a8fa7e4a30860d7f0d5",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=740&t=st=1683137222~exp=1683137822~hmac=84bc4111812b3ef0628dc316b6e29c8a9ee48e628234a294c0a144b942c02e8c",
+        "chefName": "David Kim",
+        "yearsOfExperience": 18,
+        "numberOfProjects": 28,
+        "numberOfRecipes": 56,
+        "likes": 112
+    },
+    {
+        "id": "3a2d45ce89bf44e6a77c8fb698f6f9c6",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=740&t=st=1683137222~exp=1683137822~hmac=84bc4111812b3ef0628dc316b6e29c8a9ee48e628234a294c0a144b942c02e8c",
+        "chefName": "Maria Hernandez",
+        "yearsOfExperience": 9,
+        "numberOfProjects": 16,
+        "numberOfRecipes": 32,
+        "likes": 64
+    },
+    {
+        "id": "3a2d45ce89bf44e6a87c8fb698f6f9c6",
+        "chefPictureUrl": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=740&t=st=1683137222~exp=1683137822~hmac=84bc4111812b3ef0628dc316b6e29c8a9ee48e628234a294c0a144b942c02e8c",
+        "chefName": "Maria Hernandez",
+        "yearsOfExperience": 9,
+        "numberOfProjects": 16,
+        "numberOfRecipes": 32,
+        "likes": 64
+    }
+]
