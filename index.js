@@ -14,6 +14,12 @@ app.get('/topChef', (req, res) => {
     res.send({ data: topChef });
 });
 
+app.get('/topChef/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChef = topChef.find(c => c.id === id);
+    res.send(selectedChef)
+})
+
 app.listen(port, () => {
     console.log(`Food Network API running on port: ${port}`)
 });
